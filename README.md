@@ -11,8 +11,11 @@ TODO: add more to the bad pixel masking.
 ## Installation
 
 ```bash
-pip install .
+pip install -e ".[dev]"
+pre-commit install
 ```
+
+Set the directory 
 
 ## Get Started
 ```
